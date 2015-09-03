@@ -1,0 +1,21 @@
+{
+  "name": "remote-debugging",
+  "version": "0.0.1",
+  "description": "Setup remote debugging tools",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "babel": "^5.8.23",
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.6",
+    "gulp-weinre": "0.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "remote",
+    "debugging"
+  ],
+  "author": "Elger van Boxtel",
+  "license": "ISC"
+}
