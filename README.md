@@ -1,5 +1,7 @@
 # Remote debugging with Weinre
 
+The intent of this project is to setup a remote debugging session with Weinre. 
+
 ## Installation
 
 Install https://nodejs.org/
