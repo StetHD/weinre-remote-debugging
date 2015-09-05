@@ -15,7 +15,7 @@ Install https://nodejs.org/
 
 By default Weinre will be started on **-all-** hosts on port **9090** (http://localhost:9090).
 
-  gulp --host=127.0.0.1 --port=8888
+    gulp --host=127.0.0.1 --port=8888
 
 By supplying parameters to the Gulp task, we can change that. The above command will start a server on localhost on port 8888 (http://127.0.0.1:8888)<br />
 
