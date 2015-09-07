@@ -1,7 +1,6 @@
 import gulp from 'gulp';
 import gutil from 'gulp-util';
 import weinre from 'gulp-weinre';
-import httpProxy from 'http-proxy';
 import yargs from 'yargs';
 
 let argv = yargs.argv;
