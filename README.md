@@ -8,6 +8,7 @@ This implementation of the Weinre remote debugger runs as a [GulpJS](http://gulp
 Install https://nodejs.org/
 
 Then install all dependencies for this gulp task
+   
     npm install
 
     npm install -g gulp
