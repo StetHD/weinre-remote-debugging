@@ -3,11 +3,14 @@
 The intent of this project is to setup a remote debugging session with Weinre. 
 
 ## Installation
+This implementation of the Weinre remote debugger runs as a [GulpJS](http://gulpjs.com/) task on top of [Node JS](https://nodejs.org/).
 
 Install https://nodejs.org/
 
+Then install all dependencies for this gulp task
     npm install
 
+    npm install -g gulp
 
 ## Start
   
@@ -22,3 +25,7 @@ By supplying parameters to the Gulp task, we can change that. The following comm
 ###parameters###
 **host** can be any hostname or IP address <br />
 **port** can be any valid port number. You'll get an *EADDRINUSE* error when the port is already in use
+
+## Reading
+
+http://people.apache.org/~pmuellr/weinre-docs/latest/
