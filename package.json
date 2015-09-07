@@ -8,6 +8,7 @@
     "gulp": "^3.9.0",
     "gulp-util": "^3.0.6",
     "gulp-weinre": "0.0.4",
+    "ip": "^1.0.0",
     "yargs": "^3.23.0"
   },
   "scripts": {
