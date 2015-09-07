@@ -1,5 +1,7 @@
 # Remote debugging with Weinre
 
+The intent of this project is to setup a remote debugging session with Weinre. 
+
 ## Installation
 
 Install https://nodejs.org/
@@ -10,8 +12,6 @@ Install https://nodejs.org/
 ## Start
   
     gulp
-
-
 
 By default Weinre will be started on your local IP address (*eg. 192.168.1.11*) on port **9090** (http://localhost:9090).
 
